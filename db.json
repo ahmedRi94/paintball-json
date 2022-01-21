@@ -344,5 +344,23 @@
         "content": "Dove siamo az"
       }
     ]
+  ],
+  "feedback-form": [
+    {
+      "input": [
+        {
+          "label": "Nome",
+          "placeholder": "Scrivi il tuo nome",
+          "formControlName": "name",
+          "icon": "sentiment_very_satisfied"
+        },
+        {
+          "label": "Email",
+          "placeholder": "mario@rossi.it",
+          "formControlName": "email",
+          "icon": "alternate_email"
+        }
+      ]
+    }
   ]
 }
