@@ -378,5 +378,18 @@
         }
       ]
     }
+  ],
+  "modal-confirm": [
+    {
+      "icon": "done_outline",
+      "title": "Conferma pubblicazione feedback",
+      "paragraph": [
+        "Sei sicuro di voler pubblicare questo feedback?",
+        "Si ricorda che una volta pubblicato il post non si può più cancellare!!!",
+        "Se lo si vuole fare, si prega di contattarci"
+      ],
+      "forwardButton": "Confermo",
+      "backwardButton": "Indietro"
+    }
   ]
 }
