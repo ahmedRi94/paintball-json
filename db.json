@@ -371,7 +371,7 @@
               "icon": "error_outline",
               "label": [
                 "Lunghezza minima messaggio 50 caratteri",
-                "Lunghezza minima messaggio 50 caratteri"
+                "Lunghezza massima messaggio 200 caratteri"
               ]
             }
           ]
