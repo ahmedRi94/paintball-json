@@ -345,6 +345,17 @@
       }
     ]
   ],
+  "feedback-manager": [
+    {
+      "title": "Lascia un commento",
+      "msgNoCommentYet": "Non è ancora presente nessun commento",
+      "alertMsg": [
+        "Tutti i campi sono obbligatori"
+      ],
+      "forwardButton": "Pubblica",
+      "iconButton": "send"
+    }
+  ],
   "feedback-form": [
     {
       "input": [
