@@ -290,6 +290,16 @@
       "buttonValue": "Cerca"
     }
   ],
+  "alert-nothing-images": [
+    {
+      "paragraphs": [
+        "Ci dispiace comunicarvi che non è trovata nessun immagine con questa email",
+        "vi preghiamo di riprovare con l'email lasciata al nostro staff, oppure cliccate qui che troverete i nostri contatti",
+        "Grazie"
+      ],
+      "icon": "contact_support"
+    }
+  ],
   "tabs-contacts": [
     {
       "label": "Zakaria",
