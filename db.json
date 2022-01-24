@@ -350,7 +350,8 @@
       "title": "Lascia un commento",
       "msgNoCommentYet": "Non è ancora presente nessun commento",
       "alertMsg": [
-        "Tutti i campi sono obbligatori"
+        "Tutti i campi sono obbligatori",
+        "Grazie per averci inviato il tuo feedback !!!"
       ],
       "forwardButton": "Pubblica",
       "iconButton": "send"
