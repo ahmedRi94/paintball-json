@@ -21,6 +21,15 @@
       "path": "prenota"
     }
   ],
+  "content-navbar": [
+    {
+      "logo": "/assets/images/logo.jpg",
+      "icon": [
+        "menu",
+        "brightness_medium"
+      ]
+    }
+  ],
   "header": [
     {
       "img": "https://www.paintballtoscana.it/wp-content/uploads/2016/08/paintball_versilia_scenario-1024x346.jpg",
