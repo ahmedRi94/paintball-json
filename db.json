@@ -432,5 +432,71 @@
       "forwardButton": "Confermo",
       "backwardButton": "Indietro"
     }
+  ],
+  "content-booking-form": [
+    {
+      "input": [
+        {
+          "label": "Nome",
+          "placeholder": "Nome",
+          "name": "nome"
+        },
+        {
+          "label": "Cognome",
+          "placeholder": "Cognome",
+          "name": "cognome"
+        },
+        {
+          "label": "Email",
+          "placeholder": "Email",
+          "name": "email",
+          "type": "email"
+        },
+        {
+          "label": "Telefono",
+          "placeholder": "Telefono",
+          "name": "telefono",
+          "type": "number"
+        },
+        {
+          "label": "Numero giocatori",
+          "placeholder": "Numero totale giocatori",
+          "name": "numero-giocatori",
+          "type": "number"
+        },
+        {
+          "placeholder": "Data e ora prenotazione",
+          "name": "data-ora-prenotazione",
+          "type": "datetime-local"
+        },
+        {
+          "label": "Nome Squadra 1",
+          "placeholder": "Nome Squadra 1",
+          "name": "nome-squadra-1"
+        },
+        {
+          "label": "Nome Squadra 2",
+          "placeholder": "Nome Squadra 2",
+          "name": "nome-squadra-2"
+        }
+      ],
+      "text-area": [
+        {
+          "label": "Lascia un messaggio",
+          "placeholder": "Scrivimi un messaggio",
+          "name": "messaggio",
+          "msg": [
+            "La tua prenotazione è stata effettuata correttamente, Grazie.",
+            "Tutti i campi sono obbligatori, si prega di compilare correttamente"
+          ]
+        }
+      ],
+      "button": [
+        {
+          "label": "Invia",
+          "icon": "send"
+        }
+      ]
+    }
   ]
 }
