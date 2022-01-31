@@ -504,7 +504,8 @@
           "formControl": "messaggio",
           "msg": [
             "La tua prenotazione è stata effettuata correttamente, Grazie.",
-            "Tutti i campi segnati con l'asterisco '*' sono obbligatori, si prega di compilare correttamente"
+            "Tutti i campi segnati con l'asterisco '*' sono obbligatori, si prega di compilare correttamente",
+            "Ci sono stati dei problemi tecnici, si prega di riprovare.. <br>Se il problema persiste si prega di riprovare più tardi.<br>Grazie"
           ]
         }
       ],
