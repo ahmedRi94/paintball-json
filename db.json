@@ -510,18 +510,31 @@
           "label": "Lascia un messaggio",
           "placeholder": "Scrivimi un messaggio",
           "name": "messaggio",
-          "formControl": "messaggio",
-          "msg": [
-            "La tua prenotazione è stata effettuata correttamente, Grazie.",
-            "Tutti i campi segnati con l'asterisco '*' sono obbligatori, si prega di compilare correttamente",
-            "Ci sono stati dei problemi tecnici, si prega di riprovare.. <br>Se il problema persiste si prega di riprovare più tardi.<br>Grazie"
-          ]
+          "formControl": "messaggio"
         }
       ],
       "button": [
         {
           "label": "Invia",
           "icon": "send"
+        }
+      ],
+      "optionalForm": [
+        {
+          "msgError": [
+            "La tua prenotazione è stata effettuata correttamente, Grazie.",
+            "Tutti i campi segnati con l'asterisco '*' sono obbligatori, si prega di compilare correttamente",
+            "Ci sono stati dei problemi tecnici, si prega di riprovare.. <br>Se il problema persiste si prega di riprovare più tardi.<br>Grazie"
+          ],
+          "inputError": [
+            "Si ricorda che il nostro orario di apertura è dalle 09:00 alle 22:00",
+            "Si ricorda che il numero minimo dei giocatori è di 14 persone (7 contro 7)"
+          ],
+          "openingTime": [
+            9,
+            22
+          ],
+          "numberPlayers": 14
         }
       ]
     }
