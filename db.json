@@ -475,10 +475,19 @@
             "formControl": "numeroGiocatori"
           },
           {
-            "placeholder": "Data e ora prenotazione",
-            "name": "data-ora-prenotazione",
-            "type": "datetime-local",
-            "formControl": "dataOraPrenotazione"
+            "label": "Data prenotazione",
+            "placeholder": "Data prenotazione",
+            "name": "data-prenotazione",
+            "formControl": "dataPrenotazione"
+          }
+        ],
+        [
+          {
+            "label": "Ora prenotazione",
+            "placeholder": "Ora prenotazione",
+            "name": "ora-prenotazione",
+            "type": "time",
+            "formControl": "oraPrenotazione"
           }
         ],
         [
