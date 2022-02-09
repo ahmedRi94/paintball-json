@@ -513,6 +513,16 @@
           "formControl": "messaggio"
         }
       ],
+      "checkbox": [
+        {
+          "formControlName": "checkbox",
+          "paragraph": [
+            "Autorizzo il ",
+            "trattamento dei dati personali",
+            ", ai sensi del D.lgs. 196 del 30 giugno 2003"
+          ]
+        }
+      ],
       "button": [
         {
           "label": "Invia",
