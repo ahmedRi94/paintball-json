@@ -567,5 +567,27 @@
       "icon": "keyboard_backspace",
       "backwardButton": "Torna alla pagina Home"
     }
+  ],
+  "prompt-alert": [
+    {
+      "android": [
+        {
+          "backwardButtonIcon": "close",
+          "paragraph": "Aggiungi alla tua schermata Home",
+          "forwardButtonIcon": "download"
+        }
+      ],
+      "ios": [
+        {
+          "backwardButtonIcon": "close",
+          "paragraph": "Per installare questa app web sul tuo dispositivo, tocca il pulsante Menu e poi clicca su 'Aggiungi alla tua schermata Home'.",
+          "img": [
+            "./assets/images/ios-menu-btn.png",
+            "arrow_forward_ios",
+            "fa fa-plus-square"
+          ]
+        }
+      ]
+    }
   ]
 }
