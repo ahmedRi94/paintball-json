@@ -589,5 +589,26 @@
         }
       ]
     }
+  ],
+  "share-mobile": [
+    {
+      "label": "share",
+      "icon": "share"
+    },
+    {
+      "label": "facebook",
+      "icon": "fa-facebook",
+      "href": "https://www.google.it"
+    },
+    {
+      "label": "instagram",
+      "icon": "fa-instagram",
+      "href": "https://www.youtube.it"
+    },
+    {
+      "label": "whatsapp",
+      "icon": "fa-whatsapp",
+      "href": "https://wa.me/3457379135?text=Sono%20interessato%20alla%20a%20venire%20a%20giocare%20da%20%20voi"
+    }
   ]
 }
