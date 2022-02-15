@@ -610,5 +610,10 @@
       "icon": "fa-whatsapp",
       "href": "https://wa.me/393457379135?text=Sono%20interessato%20a%20venire%20a%20giocare%20da%20%20voi"
     }
+  ],
+  "update-version": [
+    {
+      "msg": "Per aggiornare la tua applicazione nella nuova versione\nclicca 'conferma / OK' prego.\nRoero King Paintball a vostra disposizione."
+    }
   ]
 }
