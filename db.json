@@ -192,96 +192,10 @@
       "background": ""
     }
   ],
-  "gallery-page": [
-    {
-      "id": "1",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "*",
-      "alt": "image"
-    },
-    {
-      "id": "2",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "*",
-      "alt": "image"
-    },
-    {
-      "id": "3",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario2_ckcmNAS3Udk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657219",
-      "email": "*",
-      "alt": "image"
-    },
-    {
-      "id": "4",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario3_EP0pGhQnuU.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657179",
-      "email": "*",
-      "alt": "image"
-    },
-    {
-      "id": "5",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario0_gL3IKDYe7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657139",
-      "email": "*",
-      "alt": "image"
-    },
-    {
-      "id": "6",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario0_gL3IKDYe7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657139",
-      "email": "mario@rossi.it",
-      "alt": "image"
-    },
-    {
-      "id": "7",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario0_gL3IKDYe7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657139",
-      "email": "mario@rossi.it",
-      "alt": "image"
-    },
-    {
-      "id": "8",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario0_gL3IKDYe7.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657139",
-      "email": "rosso@rosso.it",
-      "alt": "image"
-    },
-    {
-      "id": "9",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "rosso@rosso.it",
-      "alt": "image"
-    },
-    {
-      "id": "10",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "rosso@mario.it",
-      "alt": "image"
-    },
-    {
-      "id": "11",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "rosso@mario.it",
-      "alt": "image"
-    },
-    {
-      "id": "12",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "mario@rossi.it",
-      "alt": "image"
-    },
-    {
-      "id": "13",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "mario@rossi.it",
-      "alt": "image"
-    },
-    {
-      "id": "14",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/Gallery/mario_rossi_it/mario1_YA2n8r-PG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863657224",
-      "email": "mario@rossi.it",
-      "alt": "image"
-    }
-  ],
   "gallery-button": [
     {
       "label": "all",
-      "dataFilter": "*"
+      "dataFilter": "all"
     },
     {
       "label": "foto del 21/04/2022",
