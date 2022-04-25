@@ -545,5 +545,22 @@
       "close": [],
       "hours": "9:00 - 22:00"
     }
-  ]
+  ],
+  "new-images": {
+    "fields": [
+      {
+        "placeholder": "Totale foto",
+        "type": "number",
+        "filedType": "input",
+        "formControlName": "totPhoto"
+      },
+      {
+        "placeholder": "Email utente",
+        "type": "text",
+        "filedType": "input",
+        "formControlName": "email"
+      }
+    ],
+    "errorMsg": "Tutti i campi sono obbliatori, si prega di inseriregli bene!!"
+  }
 }
