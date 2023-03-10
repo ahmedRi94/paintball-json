@@ -557,7 +557,7 @@
         },
         {
           "placeholder": "Email utente",
-          "type": "text",
+          "type": "email",
           "filedType": "input",
           "formControlName": "email"
         }
