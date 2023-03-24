@@ -564,5 +564,27 @@
       ],
       "errorMsg": "Tutti i campi sono obbliatori, si prega di inseriregli bene!!"
     }
+  ],
+  "login": [
+    {
+      "title": "Login",
+      "fields": [
+        {
+          "formControlName": "email",
+          "placeholder": "Inserisci un email valida",
+          "type": "email",
+          "label": "Inserisci un email valida",
+          "errorMsg": "Email non valida, inserisci bene!!"
+        },
+        {
+          "formControlName": "password",
+          "placeholder": "Inserisci la password",
+          "type": "email",
+          "label": "Inserisci la password",
+          "errorMsg": "Minimo otto caratteri, almeno una lettera, un numero e un carattere speciale !!!"
+        }
+      ],
+      "button": "Login"
+    }
   ]
 }
