@@ -579,7 +579,7 @@
         {
           "formControlName": "password",
           "placeholder": "Inserisci la password",
-          "type": "email",
+          "type": "password",
           "label": "Inserisci la password",
           "errorMsg": "Minimo otto caratteri, almeno una lettera, un numero e un carattere speciale !!!"
         }
