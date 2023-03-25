@@ -562,7 +562,31 @@
           "formControlName": "email"
         }
       ],
-      "errorMsg": "Tutti i campi sono obbliatori, si prega di inseriregli bene!!"
+      "errorMsg": "Tutti i campi sono obbliatori, si prega di inseriregli bene!!",
+      "button": "Invia",
+      "card": {
+        "title": "Clicca per i dettagli",
+        "icon_edit": "edit",
+        "icon_delete": "delete",
+        "button_modified": "Modifica",
+        "fields": [
+          {
+            "placeholder": "Inserisci la nuova email",
+            "label": "Inserisci la nuova email",
+            "type": "email",
+            "filedType": "input",
+            "pattern": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$"
+          },
+          {
+            "placeholder": "Inserisci la nuova quantità di foto",
+            "label": "Inserisci la nuova quantità di foto",
+            "type": "number",
+            "filedType": "input",
+            "pattern": "^[1-9][0-9]*$"
+          }
+        ],
+        "errorMsg": "Non è presente nessun elemento nel database"
+      }
     }
   ],
   "login": [
