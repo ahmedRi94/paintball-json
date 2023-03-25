@@ -574,15 +574,19 @@
             "placeholder": "Inserisci la nuova email",
             "label": "Inserisci la nuova email",
             "type": "email",
+            "formControlName": "email",
             "filedType": "input",
-            "pattern": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$"
+            "pattern": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
+            "errorMsg": "Si prega di inserire bene l'email !!"
           },
           {
             "placeholder": "Inserisci la nuova quantità di foto",
             "label": "Inserisci la nuova quantità di foto",
             "type": "number",
+            "formControlName": "quantity",
             "filedType": "input",
-            "pattern": "^[1-9][0-9]*$"
+            "pattern": "^[1-9][0-9]*$",
+            "errorMsg": "Si prega di inserire la quantità giusta delle foto !!"
           }
         ],
         "errorMsg": "Non è presente nessun elemento nel database"
