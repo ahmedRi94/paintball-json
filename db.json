@@ -19,6 +19,10 @@
     {
       "label": "Prenota",
       "path": "prenota"
+    },
+    {
+      "label": "Accedi",
+      "path": "login"
     }
   ],
   "content-navbar": [
