@@ -292,7 +292,7 @@
       }
     ]
   ],
-  "feedback-manager": [
+  "feedback": [
     {
       "title": "Lascia un commento",
       "msgNoCommentYet": "Non è ancora presente nessun commento",
@@ -617,6 +617,13 @@
         }
       ],
       "button": "Login"
+    }
+  ],
+  "feedback-management": [
+    {
+      "title": "Rimuovi i commenti inappropriato",
+      "msgNoCommentYet": "Non è ancora presente nessun commento",
+      "icon_delete": "delete"
     }
   ]
 }
