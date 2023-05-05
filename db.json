@@ -350,6 +350,16 @@
       ],
       "forwardButton": "Confermo",
       "backwardButton": "Indietro"
+    },
+    {
+      "icon": "warning",
+      "title": "Conferma cancellazione feedback",
+      "paragraph": [
+        "Sei sicuro di voler cancellare questo feedback?",
+        "Si ricorda che una volta cancellato il post non si può più tornare indietro!!!"
+      ],
+      "forwardButton": "Confermo",
+      "backwardButton": "Indietro"
     }
   ],
   "content-booking-form": [
