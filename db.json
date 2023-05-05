@@ -301,7 +301,8 @@
         "Grazie per averci inviato il tuo feedback !!!"
       ],
       "forwardButton": "Pubblica",
-      "iconButton": "send"
+      "iconButton": "send",
+      "fromWhereItIsCalled": "CONTACTS"
     }
   ],
   "feedback-form": [
@@ -623,7 +624,8 @@
     {
       "title": "Rimuovi i commenti inappropriato",
       "msgNoCommentYet": "Non è ancora presente nessun commento",
-      "icon_delete": "delete"
+      "icon_delete": "delete",
+      "fromWhereItIsCalled": "ADMIN_MANAGEMENT"
     }
   ]
 }
