@@ -91,7 +91,14 @@
   ],
   "footer": [
     {
-      "_comment": "'copyright': [{'label': '&copy;','paragraph': 'Copyright 2022'}],  da attivare solamente quando ci sarà la copyright",
+      "copyright": [
+        {
+          "_comment": "'label': '&copy;','paragraph': 'Copyright 2022',  da attivare solamente quando ci sarà la copyright",
+          "maker": "Realized by",
+          "makerLink": "https://www.linkedin.com/in/ahmed-riahi-9967431b0/",
+          "makerName": "Riahi Ahmed"
+        }
+      ],
       "followUs": [
         {
           "path": "www.facebook.com/painball",
