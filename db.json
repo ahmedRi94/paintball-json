@@ -91,12 +91,7 @@
   ],
   "footer": [
     {
-      "copyright": [
-        {
-          "label": "&copy;",
-          "paragraph": "Copyright 2022"
-        }
-      ],
+      "_comment": "'copyright': [{'label': '&copy;','paragraph': 'Copyright 2022'}],  da attivare solamente quando ci sarà la copyright",
       "followUs": [
         {
           "path": "www.facebook.com/painball",
