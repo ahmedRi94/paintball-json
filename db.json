@@ -328,15 +328,13 @@
           "label": "Feedback",
           "placeholder": "Lascia un commento",
           "formControlName": "message",
-          "msgError": [
-            {
-              "icon": "error_outline",
-              "label": [
-                "Lunghezza minima messaggio 50 caratteri",
-                "Lunghezza massima messaggio 200 caratteri"
-              ]
-            }
-          ]
+          "msgError": {
+            "icon": "error_outline",
+            "label": [
+              "Lunghezza minima messaggio 50 caratteri",
+              "Lunghezza massima messaggio 200 caratteri"
+            ]
+          }
         }
       ]
     }
