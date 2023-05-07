@@ -314,13 +314,15 @@
           "label": "Nome",
           "placeholder": "Scrivi il tuo nome",
           "formControlName": "name",
-          "icon": "sentiment_very_satisfied"
+          "icon": "sentiment_very_satisfied",
+          "msgError": "Campo Nome obbligatorio"
         },
         {
           "label": "Email",
           "placeholder": "mario@rossi.it",
           "formControlName": "email",
-          "icon": "alternate_email"
+          "icon": "alternate_email",
+          "msgError": "Campo Email obbligatorio, scrivi bene l' email!!"
         }
       ],
       "text-area": [
