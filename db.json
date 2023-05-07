@@ -593,7 +593,7 @@
             "type": "email",
             "formControlName": "email",
             "filedType": "input",
-            "pattern": "[a-z0-9._%+-]+@[a-z0-9.-]+\\.[a-z]{2,4}$",
+            "pattern": "[a-z0-9._%-]+@[a-z0-9._%-]+\\.[a-z]{2,4}",
             "errorMsg": "Si prega di inserire bene l'email !!"
           },
           {
