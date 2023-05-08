@@ -101,7 +101,7 @@
       ],
       "followUs": [
         {
-          "path": "www.facebook.com/painball",
+          "path": "https://www.facebook.com/profile.php?id=100092112597267",
           "label": "Facebook",
           "icon": "./assets/icons/facebook.svg",
           "paragraph": "Potete seguirci anche sui social"
@@ -514,7 +514,7 @@
     {
       "label": "facebook",
       "icon": "fa-facebook",
-      "href": "https://www.google.it"
+      "href": "https://www.facebook.com/profile.php?id=100092112597267"
     },
     {
       "label": "instagram",
