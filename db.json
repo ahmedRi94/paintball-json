@@ -101,13 +101,13 @@
       ],
       "followUs": [
         {
-          "path": "www.facebook.com/profile.php?id=100092112597267",
+          "path": "https://www.facebook.com/profile.php?id=100092112597267",
           "label": "Facebook",
           "icon": "./assets/icons/facebook.svg",
           "paragraph": "Potete seguirci anche sui social"
         },
         {
-          "path": "www.instagram.com/roero_king_paintball/",
+          "path": "https://www.instagram.com/roero_king_paintball/",
           "label": "Instagram",
           "icon": "./assets/icons/instagram.svg",
           "paragraph": ""
@@ -116,7 +116,7 @@
       "sponsor": [
         {
           "label": "Ferramenta Massimino",
-          "path": "www.facebook.com/massiminoferramenta/",
+          "path": "https://www.facebook.com/massiminoferramenta/",
           "img": "https://ik.imagekit.io/afkcbh2biwv/sponsor/sponsor?updatedAt=1683544725281"
         }
       ]
