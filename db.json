@@ -205,64 +205,38 @@
       "icon": "contact_support"
     }
   ],
-  "tabs-contacts": [
-    {
-      "label": "Zakaria",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/image_staff/zakkaria_jixwDobfI0-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863495314",
-      "alt": "foto dei nostri soci"
-    },
-    {
-      "label": "Ahmed",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/image_staff/ahmed_-JQpC_qW3.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863495207",
-      "alt": "foto dei nostri soci"
-    },
-    {
-      "label": "Aziz",
-      "path": "https://ik.imagekit.io/afkcbh2biwv/image_staff/aziz_u_wl-ZdoK.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863495206",
-      "alt": "foto dei nostri soci"
-    }
-  ],
+  "tabs-contacts": {
+    "_comment": [
+      {
+        "label": "Zakaria",
+        "path": "https://ik.imagekit.io/afkcbh2biwv/image_staff/zakkaria_jixwDobfI0-.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863495314",
+        "alt": "foto dei nostri soci"
+      },
+      {
+        "label": "Ahmed",
+        "path": "https://ik.imagekit.io/afkcbh2biwv/image_staff/ahmed_-JQpC_qW3.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863495207",
+        "alt": "foto dei nostri soci"
+      },
+      {
+        "label": "Aziz",
+        "path": "https://ik.imagekit.io/afkcbh2biwv/image_staff/aziz_u_wl-ZdoK.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1644863495206",
+        "alt": "foto dei nostri soci"
+      }
+    ]
+  },
   "card-contacts": [
     [
       {
         "icon": "phonelink_ring",
-        "content": "+3497164418"
+        "content": "+393801951952"
       },
       {
         "icon": "alternate_email",
-        "content": "zakzakaria88@yahoo.it"
+        "content": "roerokingpaintball@outlook.it"
       },
       {
         "icon": "pin_drop",
         "content": "Dove siamo zak"
-      }
-    ],
-    [
-      {
-        "icon": "phonelink_ring",
-        "content": "+3883055858"
-      },
-      {
-        "icon": "alternate_email",
-        "content": "ahmedamajou@yahoo.it"
-      },
-      {
-        "icon": "pin_drop",
-        "content": "Dove siamo ah"
-      }
-    ],
-    [
-      {
-        "icon": "phonelink_ring",
-        "content": "+3888098913"
-      },
-      {
-        "icon": "alternate_email",
-        "content": "azizhamraoui@yahoo.it"
-      },
-      {
-        "icon": "pin_drop",
-        "content": "Dove siamo az"
       }
     ]
   ],
