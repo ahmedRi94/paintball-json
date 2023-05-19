@@ -415,13 +415,13 @@
           ],
           "inputError": [
             "Si ricorda che il nostro orario di apertura è dalle 09:00 alle 19:00",
-            "Si ricorda che il numero minimo dei giocatori è di 14 persone (7 contro 7)"
+            "Si ricorda che il numero minimo dei giocatori è di 8 persone (4 contro 4)"
           ],
           "openingTime": [
             9,
             19
           ],
-          "numberPlayers": 14
+          "numberPlayers": 8
         }
       ]
     }
