@@ -115,61 +115,65 @@
   ],
   "card-price": [
     {
-      "title": "Aziz",
-      "subtitle": "Io sono il capo",
+      "title": "Pacchetto base",
+      "subtitle": "",
       "features": [
         {
-          "feature": "vendo",
-          "value": "I miei vestiti"
+          "feature": "Palline",
+          "value": "200"
         },
         {
-          "feature": "compro",
-          "value": "Altri vestiti"
+          "feature": "Ore di gioco",
+          "value": "1 ora"
+        },
+        {
+          "feature": "Attrezzatura",
+          "value": "Inclusa ( Marcatore, Casco, Paracollo, Pettorina, Guanti )"
         }
       ],
-      "price": 50,
-      "special": "New",
-      "background": "red"
+      "price": 25,
+      "special": "",
+      "background": ""
     },
     {
-      "title": "Ahmed",
-      "subtitle": "Io non so chi sono",
+      "title": "Pacchetto medio",
+      "subtitle": "In promozione",
       "features": [
         {
-          "feature": "vendo",
-          "value": "pizza"
+          "feature": "Palline",
+          "value": "400"
         },
         {
-          "feature": "compro",
-          "value": "farina"
+          "feature": "Ore di gioco",
+          "value": "2 ora"
         },
         {
-          "feature": "mmmmm",
-          "value": "non so che dire"
+          "feature": "Attrezzatura",
+          "value": "Inclusa ( Marcatore, Casco, Paracollo, Pettorina, Guanti )"
         }
       ],
-      "price": 30,
+      "price": 35,
       "special": "Meglior offerta",
       "background": "green"
     },
     {
-      "title": "Zakaria",
-      "subtitle": "hah ah aha hah aha ha ahah",
+      "title": "Pacchetto grande",
+      "subtitle": "In promozione",
       "features": [
         {
-          "feature": "velocità parlata",
-          "value": "x 0.25"
+          "feature": "Palline",
+          "value": "600"
         },
         {
-          "feature": "vorrei",
-          "value": "parlare più veloce"
+          "feature": "Ore di gioco",
+          "value": "2 ora"
         },
         {
-          "feature": "vendo",
-          "value": "profumi rubati pure tarocchi"
+          "feature": "Attrezzatura",
+          "value": "Inclusa ( Marcatore, Casco, Paracollo, Pettorina, Guanti )"
         }
       ],
-      "price": 10,
+      "price": 45,
       "special": "",
       "background": ""
     }
