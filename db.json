@@ -234,6 +234,34 @@
         "icon": "pin_drop",
         "content": "Dove siamo zak"
       }
+    ],
+    [
+      {
+        "icon": "phonelink_ring",
+        "content": "+3883055858"
+      },
+      {
+        "icon": "alternate_email",
+        "content": "ahmedamajou@yahoo.it"
+      },
+      {
+        "icon": "pin_drop",
+        "content": "Dove siamo ah"
+      }
+    ],
+    [
+      {
+        "icon": "phonelink_ring",
+        "content": "+3888098913"
+      },
+      {
+        "icon": "alternate_email",
+        "content": "azizhamraoui@yahoo.it"
+      },
+      {
+        "icon": "pin_drop",
+        "content": "Dove siamo az"
+      }
     ]
   ],
   "feedback": [
