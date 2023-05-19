@@ -180,10 +180,6 @@
   ],
   "gallery-button": [
     {
-      "label": "all",
-      "dataFilter": "all"
-    },
-    {
       "label": "foto del 14/05/2023",
       "dataFilter": "zakzakaria88@yahoo.it"
     }
