@@ -145,7 +145,7 @@
         },
         {
           "feature": "Ore di gioco",
-          "value": "2 ora"
+          "value": "2 ore"
         },
         {
           "feature": "Attrezzatura",
@@ -166,7 +166,7 @@
         },
         {
           "feature": "Ore di gioco",
-          "value": "2 ora"
+          "value": "2 ore"
         },
         {
           "feature": "Attrezzatura",
@@ -184,16 +184,8 @@
       "dataFilter": "all"
     },
     {
-      "label": "foto del 21/04/2022",
-      "dataFilter": "mario@rossi.it"
-    },
-    {
-      "label": "foto del 23/04/2022",
-      "dataFilter": "rosso@mario.it"
-    },
-    {
-      "label": "foto del 27/04/2022",
-      "dataFilter": "rosso@rosso.it"
+      "label": "foto del 14/05/2023",
+      "dataFilter": "zakzakaria@yahoo.it"
     }
   ],
   "gallery-input": [
