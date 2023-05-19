@@ -414,12 +414,12 @@
             "Ci sono stati dei problemi tecnici, si prega di riprovare.. <br>Se il problema persiste si prega di riprovare più tardi.<br>Grazie"
           ],
           "inputError": [
-            "Si ricorda che il nostro orario di apertura è dalle 09:00 alle 22:00",
+            "Si ricorda che il nostro orario di apertura è dalle 09:00 alle 19:00",
             "Si ricorda che il numero minimo dei giocatori è di 14 persone (7 contro 7)"
           ],
           "openingTime": [
             9,
-            22
+            19
           ],
           "numberPlayers": 14
         }
@@ -506,7 +506,7 @@
         "Dom"
       ],
       "close": [],
-      "hours": "9:00 - 22:00"
+      "hours": "9:00 - 19:00"
     }
   ],
   "new-images": [
