@@ -537,8 +537,8 @@
     {
       "fields": [
         {
-          "placeholder": "Totale foto",
-          "type": "number",
+          "placeholder": "Seleziona le foto",
+          "type": "file",
           "filedType": "input",
           "formControlName": "totPhoto"
         },
